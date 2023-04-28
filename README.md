@@ -29,5 +29,9 @@ E-commerce platforms today are extensively driven by machine learning algorithms
 
 
 
+## Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or feedback
+
+
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as you see fit.
