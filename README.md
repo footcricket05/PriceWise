@@ -5,9 +5,9 @@ E-commerce platforms today are extensively driven by machine learning algorithms
 
 
 ## Files
-Price_Rec.ipynb: Jupyter Notebook containing the code for data preprocessing, model training, and evaluation.
-data.csv: Dataset used for training and testing the model.
-README.md: This file.
+1. `Price Recommendation for Online Sellers.ipynb`: Jupyter Notebook containing the code for data preprocessing, model training, and evaluation.
+2. `Price Recommendation for Online Sellers.py`: Python file containing the code for the project.
+3. `data.csv`: Dataset used for training and testing the model.
 
 
 
